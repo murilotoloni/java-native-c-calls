@@ -1,1 +1,2 @@
-# java-native-c-calls
+# Java Native Interface (JNI) Example
+This repository demonstrates how to call native C code from a Java program using the Java Native Interface (JNI). The step-by-step guide for compiling C code into a shared library and linking it with a Java application is available in an article in my medium profile @murilo.g.toloni.
